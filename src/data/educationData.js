@@ -2,10 +2,10 @@ import { GraduationCap } from "lucide-react";
 
 export const educationData = [
   {
-    title: "Master's of Science in Computer Science",
+    title: "Master's Degree, Computer Science",
     organization: "University of Illinois Urbana-Champaign",
     location: "Champaign, IL",
-    date: "Jan 2023 – Aug. 2024",
+    date: "Jan 2023 – Apr. 2024",
     icon: GraduationCap,
   },
   {

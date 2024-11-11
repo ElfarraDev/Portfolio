@@ -5,7 +5,7 @@ export const educationData = [
     title: "Master's Degree, Computer Science",
     organization: "University of Illinois Urbana-Champaign",
     location: "Champaign, IL",
-    date: "Jan 2023 – Apr. 2024",
+    date: "May 2023 – Aug. 2024",
     icon: GraduationCap,
   },
   {
